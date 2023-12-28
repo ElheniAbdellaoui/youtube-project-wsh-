@@ -1,0 +1,27 @@
+#logoyoutube {
+  width: 150px;
+  height: auto;
+}
+#column1 {
+  width: 942px;
+}
+#navcont {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+#cam {
+  width: 50px;
+  height: 50px;
+  color: black;
+}
+.hash {
+  color: rgb(33, 33, 129);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+.title {
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
